@@ -1,5 +1,5 @@
 # docker-ci-cd
-Строим домашний CI/CD крипт на python
+Строим домашний Docker, CI/CD, python
 
 ```bash
 docker pull registry.git.com/$repo_name
